@@ -1,4 +1,4 @@
-<h1 align="left">Meu nome é Samuel, e eu sou um Dev em desenvolvimento com muita sede de vencer.</h1>
+<h1 align="left">Meu nome é Samuel, sou um Dev em desenvolvimento.</h1>
 
 ###
 
