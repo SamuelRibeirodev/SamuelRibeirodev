@@ -10,8 +10,7 @@
 
 ###
 
-<p align="left">Fala, familia! Sou o Samuel Ribeiro e estou no começo dos meus estudo, sobre a base de lógica de programação, e pretendo me aprofundar na área de Front-end agora de ínicio, sou muito curioso, e tenho fome de aprendizado e pelo desejo de construir soluções reais através da programação.<br><br>Atualmente, estou aprofundando meus estudos em JavaScript, lógica de programação, e irei inicar agora o famoso Portugol, construindo uma base sólida para atuar como desenvolvedor e evoluir continuamente dentro do universo da tecnologia.<br><br>Minha trajetória anterior com marketing, vendas e vibe coding contribuiu para o meu desenvolvimento de habilidades como comunicação, visão de negócio, resolução de problemas e foco em resultados. Hoje, essas competências complementam minha formação técnica e me ajudam a enxergar a tecnologia de forma prática, orientada à geração de valor.<br><br>Sou apaixonado por aprendizado contínuo, inovação e pelo impacto que a tecnologia pode gerar na vida das pessoas e nas empresas. Busco minha primeira oportunidade na área de TI, onde eu possa aplicar meus conhecimentos, adquirir experiência prática e crescer junto a profissionais e projetos desafiadores.<br><br>📌 Vamos trocar ideias sobre tecnologia, desenvolvimento e inovação?</p>
-
+<p align="left">Fala, familia! Sou o Samuel Ribeiro e estou no começo dos meus estudo, sobre a base de lógica de programação, e pretendo me aprofundar na área de Front-end agora de ínicio, sou muito curioso, e tenho fome de aprendizado e pelo desejo de construir soluções reais através da programação.<br><br>Atualmente, estou aprofundando meus estudos em JavaScript, lógica de programação, e irei inicar agora o famoso Portugol, construindo uma base sólida para atuar como desenvolvedor e evoluir continuamente dentro do universo da tecnologia.
 ###
 
 <h2 align="left">Aprofundando meus estudos:</h2>
