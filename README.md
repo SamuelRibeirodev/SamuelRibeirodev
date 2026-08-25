@@ -1,4 +1,4 @@
-<h1 align="left">Me chamo Samuel Ribeiro, sou um Dev iniciante.</h1>
+<h1 align="left">Me chamo Samuel Ribeiro, e sou um Dev iniciante.</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left"> Sou o Samuel Ribeiro e estou no começo dos meus estudo, sobre a base de lógica de programação, e pretendo me aprofundar na área de Front-end agora de ínicio, sou muito curioso, e tenho fome de aprendizado e pelo desejo de construir soluções reais através da programação.<br><br>Atualmente, estou aprofundando meus estudos em JavaScript, lógica de programação, agora estou construindo uma base sólida para atuar como desenvolvedor e evoluir continuamente dentro do universo da tecnologia, mas pretendo futuramente ir para área de backend.
+<p align="left"> Estou no começo da minha carreira como Dev, iniciei meus estudos na faculdade da Fiap, no curso de Análise e Desenvolvimento de Sistemas
 
 
 <h2 align="left">Aprofundando meus estudos:</h2>
