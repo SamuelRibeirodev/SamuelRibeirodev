@@ -1,4 +1,4 @@
-<h1 align="left">Me chamo Samuel Ribeiro, e sou um Dev iniciante.</h1>
+<h1 align="left">Me chamo Samuel Ribeiro.</h1>
 
 ###
 
